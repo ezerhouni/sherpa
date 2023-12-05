@@ -25,7 +25,17 @@ Also, we show how to use it for speech recognition with pre-trained models.
 
    ./install/index
    ./python/index
+   ./c-api/index
+   ./go-api/index
+   ./csharp-api/index
    ./android/index
    ./ios/index
    ./websocket/index
+   ./hotwords/index
    ./pretrained_models/index
+
+.. toctree::
+   :maxdepth: 5
+   :caption: tts
+
+   ./tts/index
